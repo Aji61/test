@@ -1,6 +1,5 @@
 # hi
 
-# hello
 
 # I love japan
 
